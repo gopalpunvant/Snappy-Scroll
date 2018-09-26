@@ -2,7 +2,7 @@
 
 Snappy-Scroll is a tiny web project demonstrating the use of Snap-Scroll. The **scroll-snap-type** CSS property defines how strictly snap points are enforced on the scroll container in case there is one.
 
-## Authors
+## Author
 
 * **Gopal Punvantwar** -  [TalentBox](https://talentbox.in/)
 
@@ -20,4 +20,4 @@ Want to contribute? Great! Your ideas are always welcome.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/gopalpunvant/Snappy-Scroll/blob/master/LICENSE) file for details
